@@ -29,7 +29,7 @@
   <project path="device/generic/goldfish" name="device/generic/goldfish" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" />
-  <project path="device/htc/common" name="android_device_htc_common" remote="cm" revision="gingerbread" />
+  <project path="device/htc/common" name="android_device_htc_common" remote="TeamICS" revision="ics" />
   <project path="device/htc/desirec" name="android_device_htc_desirec" remote="TeamICS" revision="ics" />
   <project path="device/htc/hero" name="android_device_htc_hero" remote="TeamICS" revision="ics" />
   <project path="device/htc/heroc" name="android_device_htc_heroc" remote="TeamICS" revision="ics" />
